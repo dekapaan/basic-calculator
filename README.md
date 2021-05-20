@@ -1,1 +1,1 @@
-# basic-calculator
+[![Build Status](https://travis-ci.com/dekapaan/basic-calculator.svg?branch=main)](https://travis-ci.com/dekapaan/basic-calculator)
